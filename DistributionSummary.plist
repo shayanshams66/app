@@ -36,9 +36,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>712c04c3-e23e-4a5e-ba71-bd2b62bf8707</string>
+				<string>354b9a43-e77e-433c-b78b-0c0420bae10d</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: SAFE.SAFE-Social-Distancing</string>
+				<string>safe_Social</string>
 			</dict>
 			<key>team</key>
 			<dict>

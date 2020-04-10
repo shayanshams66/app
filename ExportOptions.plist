@@ -11,14 +11,21 @@
 		<key>appURL</key>
 		<string>https://github.com/shayanshams66/app/blob/master/SAFE_Social_Distancing.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://www.dropbox.com/s/l2csrpy9aqjw8um/icon.png?dl=0</string>
+		<string>https://github.com/shayanshams66/app/blob/master/icon.png</string>
 		<key>fullSizeImageURL</key>
 		<string>https://github.com/shayanshams66/app/blob/master/COVIDweb_avoidCloseContact_masks_rect-01.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>SAFE.SAFE-Social-Distancing</key>
+		<string>safe_Social</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
