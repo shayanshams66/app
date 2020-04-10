@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/shayanshams66/app/blob/master/SAFE_Social_Distancing.ipa</string>
+		<string>https://shayanshams66.github.io/app/SAFE_Social_Distancing.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/shayanshams66/app/blob/master/icon.png</string>
+		<string>https://shayanshams66.github.io/app/icon.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/shayanshams66/app/blob/master/COVIDweb_avoidCloseContact_masks_rect-01.png</string>
+		<string>https://shayanshams66.github.io/app/COVIDweb_avoidCloseContact_masks_rect-01.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
