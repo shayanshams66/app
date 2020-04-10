@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SAFE_Social_Distancing.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>89E0440A8F9B45DE13D75E2A03C7D9316F88C297</string>
+				<key>dateExpires</key>
+				<string>4/10/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HR33H5WN2Y.SAFE.SAFE-Social-Distancing</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HR33H5WN2Y</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>HR33H5WN2Y.SAFE.SAFE-Social-Distancing</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SAFE_Social_Distancing.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>712c04c3-e23e-4a5e-ba71-bd2b62bf8707</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: SAFE.SAFE-Social-Distancing</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HR33H5WN2Y</string>
+				<key>name</key>
+				<string>Shayan Shams</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
